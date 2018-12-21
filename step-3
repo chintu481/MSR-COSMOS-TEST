@@ -1,0 +1,10 @@
+Commiting files/codes to Github:
+
+ 1. Connect host machine to ithub account
+    git clone "URL"
+ 2. Adding files (git add "host machine file-name")
+ 3. Commiting code
+    git commit -m "first commit"
+    git remote add origin "URL"
+    git push -u orin master (pushing files/code into github repository)
+    

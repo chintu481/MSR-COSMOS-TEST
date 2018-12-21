@@ -1,0 +1,22 @@
+Installing software packages:
+
+Docker-engine:
+
+1. Check updates for " apt ", by the command apt get updates
+2. Install docker engine by the command apt install docker.io
+3. Installing services as images from docker hub
+   docker pull "image-name"
+   docker images( shows installed images)
+   docker run -itd "image-name" (create container for particular image)
+   docker ps (check running  container)
+   docker start/stop "conatiner-id" (start/stop contaier)
+   docker run -itd "image-name" /bin/bash (login into container)
+   
+Docker-compose:
+ 
+ Install docker-compose by the command apt install docker-compose
+
+Git:
+
+ Install git (apt install git)
+

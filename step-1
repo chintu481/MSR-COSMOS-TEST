@@ -1,0 +1,10 @@
+1. create EC2 instance in AWS cloud using instance type of t2.micro.
+2. Operating system is UBUNTU server 16.04
+
+   Use putty for login into server with key-pair and public ipv4 address
+   Use "sudo su - " for root access
+   Install httpd or apche2 services
+
+ Host name:
+  Configure hostname to desired name in /etc directory by changing public ipv4 address   to desired name.
+

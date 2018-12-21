@@ -6,5 +6,5 @@
    Install httpd or apche2 services
 
  Host name:
-  Configure hostname to desired name in /etc directory by changing public ipv4 address   to desired name.
+  Configure hostname to desired name in /etc/hostname directory by changing public ipv4 address   to desired name.
 
